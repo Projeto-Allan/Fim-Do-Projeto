@@ -17,10 +17,10 @@
             background-color: #5fa500;
             height: 100vh;
             width: 100vw;
+            background-size:cover;
         }
     
         .container {
-            background-color: #5fa500;
             display: flex;
             flex-direction: column;
             align-items: center;

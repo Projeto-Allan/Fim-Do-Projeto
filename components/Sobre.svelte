@@ -20,6 +20,7 @@
             background-color: #5fa500;
             height: 100vh;
             width: 100vw;
+            background-size:cover;
         }
         .container {
             display: flex;
