@@ -1,4 +1,4 @@
-# Corrida de Obstáculos
+# Corrida de Obstáculos 🐍
 ## Nesse jogo o seu objetivo é fazer o máximo de pontos possíves sem morrer.
 ### Para jogar você precisa:
 * Ter a versão mais recente do node
@@ -9,4 +9,4 @@ npm install
 npm run dev
 ``` 
 
-#### Jogo criado por alunos do IFPE Campus Igarassu para o projeto da matéria de Programação Imperativa.
+#### Jogo criado usando o framework de JavaScript <a href="https://svelte.dev/">🔗 Svelte</a>, por alunos do IFPE Campus Igarassu para o projeto da matéria de Programação Imperativa.
