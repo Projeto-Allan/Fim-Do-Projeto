@@ -9,4 +9,4 @@ npm install
 npm run dev
 ``` 
 
-## Jogo criado por alunos do IFPE Campus Igarassu.
+#### Jogo criado por alunos do IFPE Campus Igarassu.
